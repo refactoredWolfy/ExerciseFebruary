@@ -42,7 +42,8 @@ If **multiple numbers share the same highest frequency**, the programm returns t
 
 ```csharp
 int [] numbers = {1,2,2,2,2,2,3,4,4,7,7,8,9,9,9,9,9};
-**Result** = `2`
+```
+**Result:** `2`
 
 
   
