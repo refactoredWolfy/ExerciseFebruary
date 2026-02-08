@@ -13,7 +13,7 @@ This repository contains ** simple C# practice exercises** learn and reinforce f
 
 ### **Problem Description**
 
-This console application determines the**most frequent number** in an integer array.
+This console application determines the **most frequent number** in an integer array.
 
 If **multiple numbers share the same highest frequency**, the programm returns the ** smaller number**.
 
