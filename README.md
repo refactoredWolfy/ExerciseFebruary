@@ -1,15 +1,15 @@
 Md
 
-#**Exercise February**
+# **Exercise February**
 
-##**C# Practice Exercises**
+## **C# Practice Exercises**
 
 
 This repository contains ** simple C# practice exercises** learn and reinforce fundamental programming concepts**
 
 ---
 
-##**Most Frequent Number**
+## **Most Frequent Number**
 
 ### **Problem Description**
 
@@ -19,9 +19,9 @@ If **multiple numbers share the same highest frequency**, the programm returns t
 
 ---
 
-##**How the solution works**
+## **How the solution works**
 
-###**Step 1- Count Occurrences**
+### **Step 1- Count Occurrences**
 
 - The programm iterates through the array.
 - A **Dictionary<int,int>** is used to store:
@@ -38,11 +38,11 @@ If **multiple numbers share the same highest frequency**, the programm returns t
  
   ---
 
-##**Example**
+## **Example**
 
 ```csharp
 int [] numbers = {1,2,2,2,2,2,3,4,4,7,7,8,9,9,9,9,9};
-**Result** = 2;
+Result = 2;
 
 
   
