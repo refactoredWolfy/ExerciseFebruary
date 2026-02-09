@@ -5,7 +5,7 @@
 ## **C# Practice Exercises**
 
 
-This repository contains ** simple C# practice exercises** learn and reinforce fundamental programming concepts**
+This repository contains **simple C# practice exercises** learn and reinforce fundamental programming concepts**
 
 ---
 
